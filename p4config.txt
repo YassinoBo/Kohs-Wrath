@@ -1,0 +1,4 @@
+P4PORT=ssl:perforce.cs.hs-rm.de:1666
+P4USER=ybola001
+P4CLIENT=ybola001_Yassino_main_7811
+P4IGNORE=.p4ignore.txt

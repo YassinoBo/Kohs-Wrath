@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25d3ea6066ce6d447bcb982ade3716c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56405
+  packageName: Locker
+  packageVersion: 1.1
+  assetPath: Assets/Locker/Prefabs/locker_01b.prefab
+  uploadId: 524374
